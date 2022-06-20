@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joey (@jrkozak92)
-- 👀 I’m interested in Full-Stack Development, Interactive 3D Development (R3F, AR/VR), and .
+- 👀 I’m interested in Full-Stack Development, Interactive 3D Development (R3F, AR/VR), and getting a job doing some of this stuff.
 - 🌱 I’m currently learning React-Three-Fiber, Ruby on Rails, and Data Structures & Algorithms
 - 💞️ I’m looking to collaborate on anything that will expand and refine my knowledge!
 - 📫 How to reach me: jrkozak92@gmail.com
